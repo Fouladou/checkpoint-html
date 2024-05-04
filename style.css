@@ -1,0 +1,13 @@
+nav {
+    display:flex;
+    background: fixed;
+    background-color: rgb(155, 195, 218);
+}
+
+ul {
+    display:flex
+}
+
+ul li {
+    margin:40px;
+}
